@@ -46,7 +46,7 @@ I'm a mechanical engineering student at NUST CEME. I also write software, becaus
 | | |
 | :-- | :-- |
 | **Score247** | A cricket scoring app for Android, written in Kotlin. |
-| **Status** | UI redesign complete. Core scoring logic untouched, because the engine already ran clean. |
+| **Status** | Completed. Live on Github now. |
 | **Idea** | Fast to use mid-match, precise where it counts. |
 
 <!-- When the repo is public, link it: | **[Score247](https://github.com/waleedahmedja/score247)** | -->
@@ -89,7 +89,5 @@ I'm a mechanical engineering student at NUST CEME. I also write software, becaus
 <br/>
 
 <div align="center">
-
-<sub>Lights out. Away we go.</sub>
 
 </div>
